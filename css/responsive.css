@@ -1,0 +1,653 @@
+@media (min-width: 1920px) {
+    .slider .slick-track {
+        border-bottom: 5px solid #deba5d;
+        height: 80vh;
+    }
+    .small_img {
+        top: 121px;
+    }
+    .portpolio_small_right {
+        top: 107px;
+    }
+    .portpolio_content {
+        margin-top: 13%;
+    }
+}
+
+@media (max-width:767px) {
+    .mangae_box_content ul li {
+        width: 50%;
+        margin-bottom: 30px;
+        height: 201px;
+    }
+    .mt-6 {
+        margin-top: 1rem !important;
+    }
+    .list-ct5 ul li:before {
+        top: 14px;
+    }
+    .seo_feature_sec {
+        min-height: auto;
+    }
+    .portpolio_right_side {
+        margin-bottom: 70px;
+    }
+    .m_section5 .content-sec5 .list-ct5 ul {
+        width: 100%;
+    }
+    .list-ct5 ul li {
+        font-size: 18px;
+        line-height: 37px;
+        height: auto;
+    }
+    .m_section5 .content-sec5 p {
+        font-size: 18px;
+    }
+    .statnumb {
+        margin: 10px 0 0 20px;
+    }
+    .list-ct5 {
+        margin-top: 20px;
+    }
+    .m_section5 .title-sec5 h4 {
+        font-size: 40px;
+    }
+    .appantive_team {
+        padding: 0px 0px 45px;
+    }
+    .image img {
+        margin-bottom: 0;
+        height: auto;
+        margin-top: 20px;
+    }
+    .heading h1 {
+        font-size: 24px;
+    }
+    .stunning-header-bg-lightgray img {
+        width: 100%;
+    }
+    .clients_logos .slick-track {
+        padding: 30px 0px 0px;
+    }
+    .mangae_box_content ul li:last-child {
+        width: 100%;
+        margin-bottom: 30px;
+        height: auto;
+    }
+    .runway h4 {
+        width: 100%;
+    }
+    .manage_box i {
+        font-size: 25px;
+        height: 60px;
+        line-height: 58px;
+        width: 60px;
+    }
+    .heading p {
+        width: 100%;
+        text-align: justify;
+    }
+    .hb_process:before {
+        display: none;
+    }
+    .reqeust {
+        padding: 50px 0px;
+    }
+    .slider .slick-track {
+        height: 47vh;
+    }
+    .slider .slick-slide img {
+        height: 100%;
+    }
+    .banner_content h1 {
+        font-size: 25px;
+    }
+    .banner_content {
+        padding: 0% 10%;
+        top: 33%;
+    }
+    .slick-prev,
+    .slick-next {
+        width: 25px;
+        height: 25px;
+    }
+    .footer_desktop_hide {
+        display: block;
+    }
+    .slick-prev:before,
+    .slick-next:before {
+        font-size: 15px;
+    }
+    .page-footer {
+        padding: 50px 0px 0px;
+    }
+    .my-custom-menu {
+        display: block;
+        margin: 30px 0px;
+    }
+    .footer_desktop_show {
+        display: none;
+    }
+    .footer-right h4 {
+        text-align: center;
+        margin-left: 0;
+    }
+    .modal-dialog {
+        max-width: 100%;
+        margin: 23px 21px;
+    }
+    .widget-item .hb-stream.columns-3 ul li {
+        width: 20%;
+    }
+    .copy_right {
+        padding-top: 0px;
+    }
+    .navbar-brand {
+        width: 19%;
+    }
+    .slider {
+        margin-top: 15%;
+    }
+    .modal-body p {
+        text-align: justify;
+    }
+    .header {
+        padding: 10px 0px;
+    }
+    .modal-body h1 {
+        font-size: 25px;
+    }
+    .modal-body {
+        padding: 15px;
+    }
+    .navbar-collapse {
+        padding: 20px 0px 10px;
+        height: 350px;
+        overflow-x: auto;
+    }
+    .navbar-nav.m-auto .nav-link {
+        margin-top: 10px;
+    }
+    .nav-item {
+        margin-bottom: 10px;
+    }
+    .dropdown-menu {
+        min-width: 100%;
+    }
+    .dropdown-menu.show {
+        display: block !important;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: none;
+    }
+    .serive_heading h3 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+    .stunning-header-bg-lightgray {
+        padding: 35px 0;
+    }
+    .small {
+        margin-top: 0;
+    }
+    .statistics-img {
+        padding: 15px;
+        width: 80px;
+        height: 62px;
+        border-radius: 8px 22px 8px 22px;
+    }
+    .statistics span {
+        font-size: 16px;
+    }
+    .pad-tb {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .testiomonial .heading p {
+        text-align: center;
+    }
+    .border_left .service {
+        font-size: 14px;
+        line-height: 12px;
+    }
+    .service_header {
+        margin-bottom: 9px;
+        padding-top: 0;
+    }
+    .main_content {
+        width: 97%;
+        margin-left: 6px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+    .processes {
+        margin-bottom: 0;
+    }
+    .page_title {
+        padding: 15% 0%;
+        margin-top: 15%;
+    }
+    .page_title h2 {
+        font-size: 25px;
+    }
+    .differnt_card .card {
+        margin-bottom: 20px;
+    }
+    .feature_text {
+        padding-top: 0;
+    }
+    .feature_box {
+        text-align: center;
+    }
+    .pb_35 img {
+        margin-bottom: 20px;
+    }
+    .levers_item {
+        margin-top: 20px;
+    }
+    .key p {
+        margin-left: 5px;
+    }
+    .required {
+        margin-top: 0px;
+        margin-bottom: 0;
+    }
+    .pricing-sec-33 .card-three {
+        margin-bottom: 20px;
+    }
+    .service_card_sec {
+        margin-bottom: 20px;
+    }
+    .focus {
+        display: none;
+    }
+    .footer-center .footer-address-center h1 {
+        font-size: 30px;
+    }
+    .footer-center h2 {
+        font-size: 25px;
+    }
+    .sco_services {
+        margin-top: -38px;
+    }
+    .about_img {
+        margin-top: 16%;
+    }
+    .mb_35 {
+        margin-bottom: 0;
+    }
+    .box_associates {
+        height: 112px;
+        margin-bottom: 20px;
+    }
+    .small_img {
+        top: 100px;
+        right: 79px;
+        width: 201px;
+        padding: 38px 28px;
+    }
+    .portpolio_content {
+        width: 100%;
+        margin: 13% 0% 9%;
+    }
+    .portpolio_content h1 {
+        font-size: 25px;
+    }
+    .portpolio_content p {
+        font-size: 13px;
+    }
+    .result_sec .cont {
+        margin-top: 0;
+    }
+    .img_sec {
+        text-align: center;
+    }
+    .ml_50 {
+        margin-left: 0;
+    }
+    .testimonial_sec .test_cont {
+        border-left: 0;
+        padding: 6% 0%;
+    }
+    .pb_50 {
+        padding-bottom: 0;
+    }
+    .portpolio_small_right {
+        top: 100px;
+        left: 79px;
+        width: 201px;
+        padding: 38px 28px;
+    }
+    .aviner_infomation {
+        padding-bottom: 20px;
+        height: 85px;
+        margin-bottom: 20px;
+    }
+    .contact_form {
+        width: 100%;
+        margin: 0;
+    }
+    .single_work_process {
+        margin-bottom: 30px;
+    }
+    .arrows:after {
+        display: none;
+    }
+    .arrows::before {
+        display: none;
+    }
+    .work_process_icon {
+        width: 100px;
+        height: 100px;
+        line-height: 96px;
+    }
+    .img-sec {
+        margin-bottom: 20px;
+    }
+    .show_mobile {
+        display: block;
+    }
+    .hide_mobile {
+        display: none;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width:1023px) {
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0px;
+        border-radius: .25rem;
+        padding: 5px 10px;
+    }
+    .team_content h5 {
+        margin-bottom: 0;
+    }
+    .team_content {
+        height: auto;
+    }
+    .widget-item .hb-stream ul li {
+        float: left;
+    }
+    .appantive_team {
+        padding: 52px 0px 0px;
+    }
+    .appantive_team h1 {
+        font-size: 20px;
+    }
+    .ms_0 {
+        margin: 0;
+    }
+    .navbar-expand-md .navbar-collapse {
+        display: none !important;
+    }
+    .image img {
+        height: 146px;
+    }
+    .portpolio_right_side .big_images {
+        height: 240px;
+    }
+    .portpolio_left_side .big_images {
+        height: 240px;
+    }
+    .collapse.show {
+        display: block !important;
+    }
+    .navbar-expand-md .navbar-nav {
+        -ms-flex-direction: row;
+        flex-direction: column;
+    }
+    .navbar-nav {
+        margin-top: 0;
+        margin-bottom: 13px;
+    }
+    .header {
+        padding: 10px 0px;
+    }
+    .navbar {
+        padding: 0;
+        display: block;
+    }
+    .dropdown-menu {
+        min-width: 100%;
+    }
+    .menu_markit {
+        left: 0 !important;
+    }
+    .dropdown-menu.show {
+        display: block !important;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: none;
+    }
+    .serive_img {
+        width: 49px;
+        height: 39px;
+    }
+    .serive_img img {
+        width: 49px;
+        height: 49px;
+    }
+    .service_content {
+        display: flex;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .main_content {
+        width: 97%;
+        margin-left: 16px;
+        box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    }
+    .slider .slick-track {
+        height: 40vh;
+    }
+    .banner_content {
+        top: 40%;
+        padding: 0px 12%;
+    }
+    .stunning-header-bg-lightgray img {
+        width: 100%;
+    }
+    .small {
+        margin-top: 0;
+    }
+    .statistics {
+        margin-bottom: 20px;
+    }
+    .clients_logos .slick-track {
+        padding: 45px 0px 0;
+    }
+    .my-custom-menu .menu-item a {
+        font-size: 12px;
+    }
+    .page-footer {
+        padding: 40px 0px 0px;
+    }
+    .my-custom-menu .menu-item {
+        padding: 0px 10px;
+    }
+    .footer-right h4 {
+        margin-left: 0;
+        text-align: left;
+    }
+    .fa-map-marker {
+        width: 50px !important;
+    }
+    .differnt_card .card {
+        margin-bottom: 20px;
+    }
+    .widget-item .hb-stream.columns-3 ul li {
+        width: 24%;
+    }
+    .processes {
+        margin-bottom: 0;
+    }
+    .required {
+        padding-bottom: 0;
+    }
+    .android_app {
+        height: 435px;
+    }
+    .aios img {
+        margin-top: 67px;
+    }
+    .card-three-sec-1 h4 {
+        font-size: 25px;
+    }
+    .focus {
+        display: none;
+    }
+    .small_img {
+        top: 34px;
+        right: -92px;
+        width: 201px;
+        padding: 35px 27px;
+    }
+    .portpolio_content h1 {
+        font-size: 25px;
+    }
+    .portpolio_small_right {
+        top: 34px;
+        left: -92px;
+        width: 201px;
+        padding: 35px 27px;
+    }
+    .portpolio_content {
+        width: 55%;
+    }
+    .feat_cont .card img {
+        width: 80px;
+    }
+    .result_sec .cont {
+        margin-top: 75px;
+    }
+    .feat_cont .card h3 {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 2;
+        margin-top: 18px;
+    }
+    .feat_cont .card img {
+        margin-right: 0;
+    }
+    .img-sec img {
+        width: 50%;
+    }
+    .img-sec {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .ml_50 {
+        margin-left: 0;
+    }
+    .aviner_infomation {
+        margin-bottom: 20px;
+    }
+    .single_work_process {
+        margin-bottom: 30px;
+    }
+    .m_section5 .title-sec5 h4 {
+        font-size: 50px;
+    }
+}
+
+@media (device-width: 411px) {
+    .about_content:after {
+        width: 598px;
+    }
+}
+
+@media screen and (min-width:1023px) and (max-width:1365px) {
+    .levers_content {
+        border: 2px dashed #000;
+    }
+    .team_content {
+        height: 293px;
+    }
+    .team_contents h5 {
+        margin-bottom: 0px;
+    }
+    .sohan_Content {
+        height: 288px;
+    }
+    .ansul_Content {
+        height: 285px;
+    }
+    .team_contents {
+        height: 283px;
+    }
+    .shivkant_Content {
+        height: 286px;
+    }
+    .image img {
+        margin-bottom: 30px;
+        height: auto;
+    }
+    .small_img {
+        top: 58px;
+        right: -125px;
+        width: 245px;
+        padding: 50px;
+    }
+    .portpolio_small_right {
+        top: 58px;
+        left: -125px;
+        width: 245px;
+        padding: 50px;
+    }
+    .pb_50 {
+        padding-bottom: 40px;
+    }
+    .ml_50 {
+        margin-left: 0;
+    }
+    .result_sec .cont {
+        margin-top: 170px;
+    }
+    .feat_cont .card img {
+        width: 75px;
+        margin-right: 0;
+        padding: 15px;
+    }
+    .feat_cont .card h3 {
+        font-size: 16px;
+    }
+    .menu_markit {
+        left: -564px !important;
+    }
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        left: -242px;
+    }
+    .feature_box img {
+        height: auto;
+    }
+    .processes {
+        margin-bottom: 0;
+    }
+    .slider .slick-track {
+        height: 40vh;
+    }
+    .clients_logos .slick-track {
+        padding: 45px 0px 0px;
+    }
+    .navbar-brand {
+        margin-right: 10px;
+    }
+    .border_left .service {
+        font-size: 13px;
+    }
+    .btn_enquiry {
+        font-size: 13px;
+    }
+    .statistics span {
+        font-size: 24px;
+    }
+    .navbar-nav.m-auto .nav-link {
+        padding-right: 0;
+    }
+    .my-custom-menu .menu-item {
+        padding: 0px 10px;
+    }
+}
