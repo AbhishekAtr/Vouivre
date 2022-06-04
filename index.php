@@ -52,7 +52,7 @@
 	<!-- Banner start -->
 	<section>
 		<div class="slider">
-			<div class="banner_image">
+			<!-- <div class="banner_image">
 				<img src="image/bussiness.jpg" alt="">
 				<div class="banner_content text-center">
 					<h1>Transform your Business with experts.</h1>
@@ -60,21 +60,21 @@
 						your solution. </p>
 
 				</div>
-			</div>
+			</div> -->
 			<div class="banner_image">
-				<img src="image/digital.jpg" alt="">
-				<div class="banner_content text-center">
-					<h1>DIGITAL MARKETING</h1>
-					<p>Our marketing experts our quite familiar with the algorithms of google
-						for ranking a website. We help you rank up an be more discoverable. </p>
-				</div>
-			</div>
-			<div class="banner_image">
-				<img src="image/web.jpg" alt="">
+				<img src="image/b2.jpg" alt="">
 				<div class="banner_content text-center">
 					<h1>WEBSITE DEVELOPMENT</h1>
 					<p>A custom website development with quality assurance work to develop world-class website. </p>
 
+				</div>
+			</div>
+			<div class="banner_image">
+				<img src="image/b1.jpg" alt="">
+				<div class="banner_content text-center">
+					<h1>DIGITAL MARKETING</h1>
+					<p>Our marketing experts our quite familiar with the algorithms of google
+						for ranking a website. We help you rank up an be more discoverable. </p>
 				</div>
 			</div>
 		</div>
@@ -82,101 +82,37 @@
 
 	<!-- Banner end -->
 
-	<!-- Banner Heading start -->
-
-	<!-- Banner Heading end -->
-	<section>
+	<div class="container-xxl py-5">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<div class="heading">
-						<h1>Our Project Management Approach</h1>
-						<p>"Our diverse expertise optimizes your app for maximum results"</p>
+			<div class="row g-5">
+				<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+					<div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
+						<img class="position-absolute w-100 h-100" src="image/feature-3.png" alt="" style="object-fit: cover;">
+						<img class="position-absolute top-0 start-0 bg-white pe-3 pb-3" src="image/sec01.png" alt="" style="width: 200px; height: 200px;">
+					</div>
+				</div>
+				<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+					<div class="h-100 pt-5">
+						<h6 class="text-primary text-uppercase text-warning mb-2">About</h6>
+						<h1 class="display-6 mb-4">VOUIVRE</h1>
+						<p>
+							We have developed creative expertise in our work. We are the leading service provider for all your IT needs.
+							We are loaded with a powerpack team of creative and passionate employees who are totally dedicated to their work.
+						</p>
+						<p class="mb-4">We provide our clients with the best in class service at best in class prices.
+							We don't claim we are good cause we are the best.</p>
+						<div class="row g-4">
+							<div class="col-sm-6">
+								<a class="btn btn_enquiry py-3 px-5" href="about">Read More</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
 
-	<!-- Management Approach start -->
-
-	<section class="mt_20">
-		<div class="container">
-			<div class="row">
-				<div class="col-12 nbm">
-					<div class="mangae_box_content">
-						<ul class="hb_process">
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-search fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Analysis</h4>
-									<div class="hb_small_break"></div>
-									<p>Identify the improvements needed in project planning.</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-lightbulb-o fa-icon-red" aria-hidden="true"></i></i>
-									<h4 class="bold">Planning</h4>
-									<div class="hb_small_break"></div>
-									<p>Specify task and goals to be achieved before timeline.</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-files-o fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Documentation</h4>
-									<div class="hb_small_break"></div>
-									<p>Well-organized
-										documentation help you
-										get started
-									</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-star-half-o fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Design</h4>
-									<div class="hb_small_break"></div>
-									<p>Wireframes Design,
-										UX & UI Design</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-wrench fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Development</h4>
-									<div class="hb_small_break"></div>
-									<p>Digital marketing, Support
-										& Maintenance</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-bug fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Testing</h4>
-									<div class="hb_small_break"></div>
-									<p>A real-time, meaningful
-										user acceptance testing</p>
-								</div>
-							</li>
-							<li>
-								<div class="manage_box aligncenter">
-									<i class="fa fa-rocket fa-icon-red" aria-hidden="true"></i>
-									<h4 class="bold">Delivery</h4>
-									<div class="hb_small_break"></div>
-									<p>100% On-Time Delivery
-										Guaranteed</p>
-								</div>
-							</li>
-
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section class="mt_35">
+	<section class="mt_35 my-5">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -193,7 +129,29 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="row">
-						<div class="col-lg-12 col-sm-12">
+						<div class="col-md-12">
+							<div class="service_card_ninth hvr-overline-from-left">
+								<div class="service_icon_18">
+									<img src="image/website-icon.png" alt="">
+								</div>
+								<h3 class="title">WEBSITE DEVELOPMENT</h3>
+								<p class="description">We are the professionals for designing an engaging website. Our websites
+									run seamlessly on all the platforms giving the users an easy access.
+								</p>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="service_card_ninth hvr-overline-from-left">
+								<div class="service_icon_18">
+									<img src="image/seo-icon.png" alt="">
+								</div>
+								<h3 class="title">DIGITAL MARKETING</h3>
+								<p class="description">We are the professionals for designing an engaging website. Our websites
+									run seamlessly on all the platforms giving the users an easy acces.
+								</p>
+							</div>
+						</div>
+						<!-- <div class="col-lg-12 col-sm-12">
 							<div class="serviceBox">
 								<div class="service-icon"><img src="image/website-icon.png" alt="">
 								</div>
@@ -211,19 +169,19 @@
 									for ranking a website. We help you rank up an be more discoverable. </p>
 
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="col-lg-6">
-					<div class="image mt-6 text-center">
-						<img src="image/abc.jpg" alt="">
+					<div class="text-center">
+						<img src="image/service.jpg" alt="">
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	
+
 	<!-- Testiomonial Start -->
 	<section class="testiomonial mt_35">
 		<div class="container">
@@ -247,7 +205,7 @@
 						</div>
 						<div class="face back-face">
 							<span class="fa fa-quote-left"></span>
-							<div class="testimonial">
+							<div class="testimonial text-danger">
 								I made bacck the purchase price in just 48 hours! Thank you for making it pain less,
 								pleasant.
 								The service was execellent. I will refer everyone I know.
@@ -267,7 +225,7 @@
 						</div>
 						<div class="face back-face">
 							<span class="fa fa-quote-left"></span>
-							<div class="testimonial">
+							<div class="testimonial text-danger">
 								I made bacck the purchase price in just 48 hours! Thank you for making it pain less,
 								pleasant.
 								The service was execellent. I will refer everyone I know.
@@ -288,7 +246,7 @@
 						</div>
 						<div class="face back-face">
 							<span class="fa fa-quote-left"></span>
-							<div class="testimonial">
+							<div class="testimonial text-danger">
 								I made bacck the purchase price in just 48 hours! Thank you for making it pain less,
 								pleasant.
 								The service was execellent. I will refer everyone I know.
@@ -308,7 +266,7 @@
 						</div>
 						<div class="face back-face">
 							<span class="fa fa-quote-left"></span>
-							<div class="testimonial">
+							<div class="testimonial text-danger">
 								I made bacck the purchase price in just 48 hours! Thank you for making it pain less,
 								pleasant.
 								The service was execellent. I will refer everyone I know.
@@ -328,7 +286,7 @@
 						</div>
 						<div class="face back-face">
 							<span class="fa fa-quote-left"></span>
-							<div class="testimonial">
+							<div class="testimonial text-danger">
 								I made bacck the purchase price in just 48 hours! Thank you for making it pain less,
 								pleasant.
 								The service was execellent. I will refer everyone I know.

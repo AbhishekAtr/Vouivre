@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ img {
 }
 
 body {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 ul {
@@ -17,7 +18,7 @@ ul {
 }
 
 p {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 13px;
 }
@@ -38,7 +39,7 @@ p {
     font-size: 10px;
     color: #484F57;
     font-weight: 600;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 8px;
     font-weight: 600;
 }
@@ -65,18 +66,18 @@ p {
 }
 
 .btn_enquiry {
-    background: #ed1c24;
+    background: #926f16;
     font-size: 16px;
     font-weight: 500;
     color: white;
     border-radius: 30px;
     padding: 4px 24px;
     cursor: pointer;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .btn_enquiry:hover {
-    background-color: #d65a5e;
+    background-color: #ddb85c;
     color: white;
 }
 
@@ -106,7 +107,7 @@ p {
 }
 
 .slider .slick-track {
-    border-bottom: 5px solid #deba5d;
+    /* border-bottom: 5px solid #deba5d; */
     height: 85vh;
 }
 
@@ -152,7 +153,7 @@ p {
 .banner_content h1 {
     font-size: 45px;
     font-weight: bold;
-    font-family: Oswald, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: white;
     text-transform: uppercase;
 }
@@ -211,7 +212,7 @@ p {
 .eccommerce {
     font-size: 12px;
     line-height: 13px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     display: block;
 }
@@ -233,11 +234,11 @@ p {
 } */
 
 .border_left .service {
-    font-size: 16px;
+    font-size: 14px;
     color: #46443d;
     font-weight: 500;
-    line-height: 22px;
-    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .navbar-nav.m-auto .nav-link {
@@ -322,7 +323,7 @@ p {
     color: #000;
     font-weight: 400;
     line-height: 31px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header_desgin {
@@ -514,8 +515,8 @@ div.aligncenter {
 }
 
 .testiomonial {
-    /* background-image: url("../image/a.jpg"); */
-    background: linear-gradient(15deg, black, transparent);
+    /* background-image: url("../image/a.jpg");
+    background: linear-gradient(15deg, black, transparent); */
     background-repeat: no-repeat;
     width: 100%;
     padding: 40px 0px;
@@ -552,11 +553,11 @@ div.aligncenter {
 }
 
 .testiomonial .heading h1 {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .testiomonial .heading p {
-    color: white;
+    color: rgb(62, 62, 62);
 }
 
 .testiomonial .card-title {
@@ -572,7 +573,7 @@ div.aligncenter {
 }
 
 .testiomonial .card {
-    background-color: #deba5d;
+    background-color: #ecd59b;
     color: white;
     border-radius: 15px;
 }
@@ -594,7 +595,8 @@ div.aligncenter {
     transition: 1s cubic-bezier(0.415, 0.145, 0.065, 0.915);
     background: #1e262a;
     color: #ebece6;
-    font: 700 14px/24px "museo-sans", sans-serif;
+    font: 700 14px/24px 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     padding: 100px 0px 0px;
     z-index: 1;
 }
@@ -602,7 +604,7 @@ div.aligncenter {
 .footer-left h2 {
     margin-bottom: 15px;
     color: #42545d;
-    font: 700 14px/20px "museo-sans", sans-serif;
+    font: 700 14px/20px 'Montserrat', sans-serif;
     letter-spacing: .2em;
     text-transform: uppercase;
 }
@@ -633,7 +635,7 @@ div.aligncenter {
 .footer-right h2 {
     margin-bottom: 15px;
     color: #42545d;
-    font: 700 14px/20px "museo-sans", sans-serif;
+    font: 700 14px/20px 'Montserrat', sans-serif;
     letter-spacing: .2em;
     text-transform: uppercase;
 }
@@ -685,11 +687,11 @@ div.aligncenter {
     font-size: 30px;
     font-weight: 200;
     color: #fff;
-    font-family: "source_sans_probold", Arial, Helvetica, Tahoma, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .footer-center .footer-address-center h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-size: 43px;
     font-weight: 500;
@@ -1200,9 +1202,10 @@ div#services_load {
     background-color: #00aced;
 }
 
-.fa-linkedin {
+
+/* .fa-linkedin {
     background-color: #0072b1;
-}
+} */
 
 .services_banner {
     background-image: linear-gradient(rgb(14 13 13 / 26%), rgb(14 13 13 / 30%)), url("../image/tsssechasoft_banner.png");
@@ -1317,7 +1320,7 @@ div#services_load {
 }
 
 .contact_form {
-    width: 80%;
+    width: 100%;
     margin: auto;
     padding: 30px;
     border-radius: 5px;
@@ -1328,7 +1331,7 @@ div#services_load {
 .contact_form label {
     font-size: 14px;
     font-weight: bold;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .contact_form label span {
@@ -1336,7 +1339,7 @@ div#services_load {
 }
 
 .contact_form .form-control {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
 }
 
@@ -1354,7 +1357,7 @@ div#services_load {
     border-radius: 2px;
     padding: 16px;
     font-size: 14px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: fixed;
     z-index: 999999;
     left: 50%;
@@ -1784,9 +1787,11 @@ a:hover {
     color: white;
 }
 
-.heading p {
+.heading p,
+h1 {
     width: 73%;
     margin: auto;
+    font-size: 14px;
 }
 
 .processes h1 {
@@ -1970,7 +1975,7 @@ a:hover {
 
 .software_implemations .card-body ul li {
     font-weight: 400;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 13px;
     line-height: 20px;
 }
@@ -1991,7 +1996,7 @@ a:hover {
 
 .android h6 {
     margin: 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -2004,7 +2009,7 @@ a:hover {
 .required ul {
     list-style: disc;
     font-size: 13px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-left: 16px;
 }
 
@@ -2088,7 +2093,7 @@ a:hover {
     line-height: 30px;
     width: 83%;
     margin: auto;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .marketing_content h1 {
@@ -2131,7 +2136,7 @@ a:hover {
     font-size: 28px;
     color: #000;
     line-height: 32px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .list-ct5 {
@@ -2156,7 +2161,7 @@ a:hover {
     height: 100px;
     max-width: 300px;
     padding-left: 30px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
@@ -2753,7 +2758,7 @@ a:hover {
     transition: all 0.3s ease 0s;
 }
 
-#main-services .serviceBox .title {
+.service_card_ninth .title {
     display: block;
     font-size: 18px;
     font-weight: 700;
@@ -2763,7 +2768,7 @@ a:hover {
     position: relative;
 }
 
-#main-services .serviceBox .description {
+.service_card_ninth .description {
     font-size: 13px;
     color: #807d7d;
     margin: 0;
@@ -2964,12 +2969,14 @@ border-bottom: 1px solid #999; */
 
 .card .face.front-face .name {
     letter-spacing: 2px;
+    font-weight: 600;
 }
 
 .card .face.front-face .designation {
     font-size: 0.8rem;
-    color: #ddd;
+    color: #ed1c24;
     letter-spacing: 0.8px;
+    font-weight: 400;
 }
 
 .card:hover .face.front-face {
@@ -3013,7 +3020,7 @@ border-bottom: 1px solid #999; */
 
 .counter-box {
     display: block;
-    /* background: #f6f6f6; */
+    background: #f6f6f6;
     padding: 40px 20px 37px;
     text-align: center
 }
@@ -3051,5 +3058,107 @@ border-bottom: 1px solid #999; */
 }
 
 .fa-icon-red {
-    color: #ed1c24 !important;
+    color: #d8b461!important;
+}
+
+.add-text {
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(136, 136, 136);
+}
+
+.footer .btn.btn-social {
+    margin-right: 5px;
+    color: #9B9B9B;
+    border: 1px solid #9B9B9B;
+    border-radius: 38px;
+    transition: .3s;
+}
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+
+.btn-square {
+    width: 38px;
+    height: 38px;
+}
+
+.footer .btn.btn-social:hover {
+    background-color: #deba5d;
+    color: rgb(186, 43, 43);
+}
+
+.links a:hover {
+    text-decoration: none;
+    color: #deba5d;
+}
+
+footer .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    color: #9B9B9B;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+
+.footer .btn.btn-link::before {
+    position: relative;
+    content: "\f105";
+    font-family: "FontAwesome";
+    font-weight: 900;
+    margin-right: 10px;
+}
+
+.links p {
+    margin: 0 !important;
+}
+
+.service_card_ninth {
+    padding: 25px 20px;
+    background: #fff;
+    box-shadow: 0 16px 24px 2px rgb(185 183 183 / 14%), 0 6px 30px 5px rgb(158 158 158 / 12%), 0 8px 10px -7px rgb(154 151 151 / 20%);
+    margin-bottom: 30px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.service_icon_18 img {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.service_card_ninth:hover {
+    background-color: #deba5d;
+}
+
+.service_card_ninth:hover h3 {
+    color: white;
+}
+
+.service_card_ninth:hover p {
+    color: white;
+}
+
+.aviner_infomation:hover {
+    background-color: #deba5d;
+}
+
+.aviner_infomation:hover p {
+    color: white;
+}
+
+.display-6 {
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
 }

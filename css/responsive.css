@@ -1,6 +1,6 @@
 @media (min-width: 1920px) {
     .slider .slick-track {
-        border-bottom: 5px solid #deba5d;
+        /* border-bottom: 5px solid #deba5d; */
         height: 80vh;
     }
     .small_img {

@@ -19,9 +19,9 @@
     draggable: true,
     touchThreshold: 5,
     slidesToShow: 1,
-    fade: true,
+    fade: false,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 5000,
     slidesToScroll: 1,
     responsive: [{
         breakpoint: 1024,
@@ -62,7 +62,7 @@
   });
 
   $('.testiomonial_slider').slick({
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 300,
     slidesToShow: 3,

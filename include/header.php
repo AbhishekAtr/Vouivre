@@ -67,7 +67,7 @@
                         <div class="dropdown-menu menu02">
                             <div class="main_content row">
                                 <div class="service_content col-12 col-6 col-lg-12 ">
-                                   <a href="website-development-services" title="Ecommerce SEO"> 
+                                   <a href="#" title="Ecommerce SEO"> 
                                     <div class="serive_img">
                                         <img src="image/eccoemer.png" alt="">
                                     </div>
@@ -77,7 +77,7 @@
                                    </a>
                                 </div>
                                 <div class="service_content col-12 col-6 col-lg-12 ">
-                                    <a href="seo-service" title="Content Marketing">
+                                    <a href="#" title="Content Marketing">
                                         <div class="serive_img">
                                             <img src="image/content.png" alt="">
                                         </div>

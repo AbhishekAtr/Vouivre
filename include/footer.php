@@ -51,114 +51,53 @@
     </div>
 </div>
 
-<footer class="page-footer">
-    <div class="container header_desgin">
-        <div class="footer-inner row">
-            <div class="footer-center footer_desktop_hide col-lg-8 text-center">
-                <h2>Let's Work Together</h2>
-                <div class="footer-address-center field--name-body block--lets-work-together">
-                    <h1  >
-                        <a href="#" data-toggle="modal" data-target="#modals">
-                            <span class="link-content">Start a project</span>
+<div class="container-fluid bg-dark text-body footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-6 links">
+                    <h5 class="text-white mb-4">Address</h5>
+                    <p class="mb-2"><a href="" class="btn add-text"><i class="fa fa-map-marker mr-2"></i>123 Street, New York, USA</a></p>
+                    <p class="mb-2"><a href="" class="btn add-text"><i class="fa fa-phone mr-2"></i>+012 345 67890</a></p>
+                    <p class="mb-2"><a href="" class="btn add-text"><i class="fa fa-envelope mr-2"></i>info@example.com</a></p>
+                </div>
+                <div class="col-lg-4 col-md-6 links">
+                    <h5 class="text-white mb-4">Quick Links</h5>
+                    <p><a class="btn btn-link add-text" href="">About Us</a></p>
+                    <p><a class="btn btn-link add-text" href="">Our Services</a></p>
+                    <p><a class="btn btn-link add-text" href="">Contact Us</a></p>
+                    <p><a class="btn btn-link add-text" href="">Products</a></p> 
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="footer_logo w-50 mb-3">
+                        <a href="">
+                            <img src="image/logo.png" alt="">
                         </a>
-                    </h1>
-                </div>
-                <div>
-                    <ul class="my-custom-menu">
-                        <li class="menu-item"><a href="about" title="ABOUT US">About Us</a></li>
-                        <li class="menu-item"><a href="#" title="OUR PORTFOLIO">Our Services</a></li>
-                        <li class="menu-item"><a href="contact-us" title="CONTACT US">Contact Us</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-left col-lg-3 col-sm-4 ">
-                <div class="widget-item">
-                    <h4>Contact Us</h4>
-                    <ul class="contact_information">
-                        <li><i class="fa fa-map-marker" aria-hidden="true" style="
-                        width: 40px;"></i>
-                            <a href="#" target="blank">
-                                <p>
-                                    B-110, abc Avenue, abc Complex, Main market Dwarka, New Delhi-43
-                                </p>
-                            </a>
-                        </li>
-                        
-                        <li><i class="fa fa-envelope" aria-hidden="true"></i>
-                            <a href="mailto:abc@gmail.com" style="font-weight: 400;">
-                                abc@gmail.com</a>
-                        </li>
-                        <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+91-1234567890">
-                                <p> +91-1234567890</p>
-                            </a> </li>
-                    </ul>
-
-                    <ul class="footer_social">
-                        <li><a href="#"
-                                title="Facebook" target="blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" title="twitter" target="blank"><i
-                                    class="fa fa-twitter twiiter"></i></a>
-                        </li>
-                        <li><a href="#" title="Linkedin"
-                                target="blank"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                        <li><a href="#" title="Instagram" target="blank"><i class="fa fa-instagram"></i></a>
-                        </li>
-                    </ul>
-                </div>
-
-            </div>
-            <div class="footer-center footer_desktop_show col-lg-6 col-sm-7 text-center">
-                <h2>Let's Work Together</h2>
-                <div class="footer-address-center field--name-body block--lets-work-together">
-                    <h1 >
-                        <a href="#" data-toggle="modal" data-target="#modals">
-                            <span class="link-content">Start a project</span>
-                        </a>
-                    </h1>
-                </div>
-                <div>
-                    <ul class="my-custom-menu">
-                        <li class="menu-item"><a href="about" title="ABOUT US">About Us</a></li>
-                        <li class="menu-item"><a href="#" title="OUR PORTFOLIO">Our Services</a></li>
-                        <li class="menu-item"><a href="contact-us" title="CONTACT US">Contact Us</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-right col-lg-3 col-sm-6">
-                <div class="widget-item ">
-                    <h4>Recent Work</h4>
-                    <div class="hb-stream columns-3 ">
-                        <ul>
-                         
-                           
-                            <li><img src="image/costgard.png" width="250" height="250" />
-                               <li><img src="image/airforce.png" width="250" height="250"  />
-                            </li>
-                                <li><img src="image/yatra-icon.png" width="250" height="250" />
-
-                                    <li><img src="image/noida.png" width="250" height="250" style="
-                                        margin-top: 22px;" />
-
-                            </li>
-                        </ul>
+                    </div>
+                    <div class="d-flex pt-2">
+                        <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fa fa-twitter"></i></a>
+                        <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fa fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fa fa-youtube"></i></a>
+                        <a class="btn btn-square btn-outline-light btn-social" href=""><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12">
-                <div class="copy_right text-center" id="copyright-text">
-                    <p>© Copyrights "VOUIVRE" 2022. All Rights Reserved.</p>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 add-text">
+                        © <a href="#" class="text-white">Copyrights "Vouivre" 2022</a>, All Right Reserved.
+                    </div>
+                    <div class="col-md-6 text-center text-md-end add-text">
+                        Designed By <a href="#" class="text-white">UEDeveloper</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</footer>
 
-
-
-<!-- Contact Form Snackbar start -->
+    <!-- Contact Form Snackbar start -->
 
 <div id="snackbar">Form Submitted Successfully</div>
 
 <!-- Contact Form Snackbar end -->
-

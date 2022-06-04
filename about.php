@@ -66,13 +66,14 @@
         </div>
     </section>
     <!-- breadcrumbs end -->
-    <section class="sco_services">
-        <div class="container">
+  
+    <section class="about">
+    <div class="container mt-5">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <div class="heading heading_half">
-                        <h1>Welcome to our company</h1>
-                        <p style="width: 100%;" class="text-left">We have developed creative expertise in our work. We are the leading
+                <div class="col-lg-7 mt-4">
+                    <div class="heading">
+                        <h1 class="mb-2">Welcome to our company</h1>
+                        <p>We have developed creative expertise in our work. We are the leading
                             service provider for all your IT needs. We are loaded with a powerpack team of creative and
                             passionate employees who are totally dedicated to their work. We provide our clients with
                             the best in class service at best in class prices. We don't claim we are good cause we are
@@ -81,13 +82,20 @@
 
                     </div>
                 </div>
+                <div class="col-lg-5 col-sm-5 text-center">
+                    <img src="image/vector.png" alt="" class="about_img">
+                </div>
             </div>
+            
         </div>
     </section>
     <!-- Mission and Vission Start -->
     <section class="section mt_35 mb_35">
         <div class="container">
             <div class="row">
+            <div class="col-lg-5 col-sm-5 text-center">
+                    <img src="image/vision.png" alt="">
+                </div>
                 <div class="col-lg-7 col-sm-7">
                     <div class="mission_vission">
                         <h2 class="vission">My Vision</h2>
@@ -101,9 +109,7 @@
                             excellent services with honesty, ethics and unparalleled quality.</p>
                     </div>
                 </div>
-                <div class="col-lg-5 col-sm-5 text-center">
-                    <img src="image/vector.png" alt="" class="about_img">
-                </div>
+                
             </div>
         </div>
     </section>
