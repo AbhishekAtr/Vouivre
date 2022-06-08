@@ -332,6 +332,20 @@ p {
 
 .main_content {
     display: flex;
+    width: 100%;
+    padding: 10px;
+    padding-top: 16px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    border-top: none;
+    margin-top: 6px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.main_content_products {
+    display: flex;
     width: 25%;
     padding: 10px;
     padding-top: 16px;
